@@ -45,7 +45,9 @@ This folder consists of scripts to reproduce the figures seen in the
 appendix of the [paper](https://arxiv.org/pdf/1902.10027). 
 
 There are two scripts in the folder, namely `PlotData.py` and `PlotTime.py`. 
-These will consolidate the data from the 
+These will consolidate the data into image form in the `Plots` folder. The 
+`PlotData.py` script will plot the number of errors and the `PlotTime.py` 
+script will plot the time taken. 
 
 ## Demo
 `python <filename>`
