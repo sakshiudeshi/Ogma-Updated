@@ -40,7 +40,7 @@ AYLIEN_APP_ID = "<insert key here>"
 ROSETTE_API_KEY = "<insert key here>"
 ```
 
-###Grammars 
+### Grammars 
 This folder contains `.txt` files of all the Grammars we have used in 
 our experimentation. 
 
